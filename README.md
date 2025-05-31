@@ -60,9 +60,7 @@ This indicates that customers prefer to pay more with cards when the fare amount
 |Trip Distance	|   Card	           |   3.23    |     2.32                 |
 |Trip Distance	|   Cash	           |   2.80    |     2.23                 |
 
-🔍 Visual Insights
 
-GitHub repo (e.g., images/journey_insights.png).
 
 ## 💳 Preference of Payment Types
 The proportion of customers paying with cards is significantly higher than those paying with cash.
@@ -77,9 +75,7 @@ Enhanced security
 
 Incentives or discounts offered for card usage
 
-🥧 Payment Distribution
 
-path in your repository, e.g., images/payment_preference.png.
 
 ## 👥 Passenger Count Analysis
 Among card payments, rides with a single passenger (passenger_count = 1) make up the largest proportion — 40.08% of all card transactions.
@@ -90,9 +86,7 @@ There is a noticeable decrease in the percentage of transactions as the passenge
 
 These insights highlight the importance of considering both payment type and passenger count when analyzing ride data to understand customer behavior and preferences.
 
-📊 Payment Type vs Passenger Count
 
-e images/passenger_count_analysis.png.
 
 ## RECOMMENDATIONS FROM ANALYSIS
 **Encourage credit card usage**
